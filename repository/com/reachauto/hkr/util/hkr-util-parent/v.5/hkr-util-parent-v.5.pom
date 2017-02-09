@@ -16,6 +16,7 @@
         <module>hkr-util-alidayu</module>
         <module>hkr-util-umeng</module>
         <module>hkr-util-auth</module>
+        <module>hkr-util-auth-jwt</module>
     </modules>
 
     <properties>
