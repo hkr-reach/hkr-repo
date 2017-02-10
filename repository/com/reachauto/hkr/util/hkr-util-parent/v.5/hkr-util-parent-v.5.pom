@@ -54,6 +54,11 @@
 
     <repositories>
         <repository>
+            <id>ali-repo</id>
+            <name>Ali Repo</name>
+            <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
+        </repository>
+        <repository>
             <id>maven-repo</id>
             <name>Maven Repo</name>
             <url>https://repo.maven.apache.org/maven2/</url>
