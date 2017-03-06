@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>hkt-util-mq</artifactId>
+    <artifactId>hkr-util-mq</artifactId>
     <version>0.5.0</version>
 
     <properties>

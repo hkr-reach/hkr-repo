@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 06 12:03:42 CST 2017
+5112c900fbaf15810f031086cc11b91081439c2c@proxy.reachauto.com\:8080>@default-ali-repo-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1488773022881
+5112c900fbaf15810f031086cc11b91081439c2c@proxy.reachauto.com\:8080>@default-hkr-repo-https\://raw.githubusercontent.com/hkr-reach/hkr-repo/master/repository/.lastUpdated=1488773022924
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact com.reachauto.hkr.util\:hkr-util-mq\:pom\:0.5.0 from/to alimaven (http\://maven.aliyun.com/nexus/content/groups/public/)\: proxy.reachauto.com
+5112c900fbaf15810f031086cc11b91081439c2c@proxy.reachauto.com\:8080>@default-alimaven-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1488773022954
+5112c900fbaf15810f031086cc11b91081439c2c@proxy.reachauto.com\:8080>@default-maven-repo-https\://repo.maven.apache.org/maven2/.lastUpdated=1488773022907
+https\://raw.githubusercontent.com/hkr-reach/hkr-repo/master/repository/.error=Could not transfer artifact com.reachauto.hkr.util\:hkr-util-mq\:pom\:0.5.0 from/to hkr-repo (https\://raw.githubusercontent.com/hkr-reach/hkr-repo/master/repository/)\: proxy.reachauto.com
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.reachauto.hkr.util\:hkr-util-mq\:pom\:0.5.0 from/to maven-repo (https\://repo.maven.apache.org/maven2)\: proxy.reachauto.com
