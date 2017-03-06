@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.reachauto.hkr.util</groupId>
-  <artifactId>hkr-util-parent</artifactId>
+  <artifactId>hkr-util-mq</artifactId>
   <versioning>
-    <release>v.5</release>
+    <release>0.5.0</release>
     <versions>
-      <version>v.5</version>
+      <version>0.5.0</version>
     </versions>
-    <lastUpdated>20170306121630</lastUpdated>
+    <lastUpdated>20170306121634</lastUpdated>
   </versioning>
 </metadata>

@@ -18,6 +18,7 @@
         <module>hkr-util-auth</module>
         <module>hkr-util-auth-jwt</module>
         <module>hkr-util-payment-sdk</module>
+        <module>hkr-util-mq</module>
     </modules>
 
     <properties>
