@@ -3,10 +3,10 @@
   <groupId>com.reachauto.hkr.util</groupId>
   <artifactId>hkr-util-db-redis</artifactId>
   <versioning>
-    <release>0.6.0</release>
+    <release>0.7.0.strjdk</release>
     <versions>
-      <version>0.6.0</version>
+      <version>0.7.0.strjdk</version>
     </versions>
-    <lastUpdated>20170911115425</lastUpdated>
+    <lastUpdated>20170914061223</lastUpdated>
   </versioning>
 </metadata>
