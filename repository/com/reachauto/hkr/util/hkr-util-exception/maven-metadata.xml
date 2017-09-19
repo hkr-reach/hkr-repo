@@ -3,10 +3,10 @@
   <groupId>com.reachauto.hkr.util</groupId>
   <artifactId>hkr-util-exception</artifactId>
   <versioning>
-    <release>0.6.3</release>
+    <release>0.6.4.apidatatotime</release>
     <versions>
-      <version>0.6.3</version>
+      <version>0.6.4.apidatatotime</version>
     </versions>
-    <lastUpdated>20170914062922</lastUpdated>
+    <lastUpdated>20170919061534</lastUpdated>
   </versioning>
 </metadata>
