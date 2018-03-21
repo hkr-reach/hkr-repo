@@ -3,10 +3,10 @@
   <groupId>com.reachauto.hkr</groupId>
   <artifactId>hkr-logs</artifactId>
   <versioning>
-    <release>2018-1.0.0</release>
+    <release>2018-1.2.0</release>
     <versions>
-      <version>2018-1.0.0</version>
+      <version>2018-1.2.0</version>
     </versions>
-    <lastUpdated>20180224065044</lastUpdated>
+    <lastUpdated>20180321024957</lastUpdated>
   </versioning>
 </metadata>
